@@ -1,0 +1,95 @@
+
+body{
+    border-top:5px solid #00f;
+    padding:0;
+    margin:0;
+    font-family:candara;
+    position:relative;
+}
+.container{
+    margin-left:auto;
+    margin-right:auto;
+    width:1000px;
+    
+}
+header{
+    background-color:aliceblue;
+    color:rgb(107, 161, 226);
+    padding-left:50px;
+    display:flex;
+    align-items: center;
+    gap: 400px;
+    
+}
+
+
+
+a{
+    text-decoration: none;
+    font-size:20px;
+    color:rgb(71, 122, 233);
+}
+ .mark{
+    position:relative;
+    height:30px;
+   
+
+
+} 
+.top{
+    position:absolute;
+    top:0;
+    right: 367px;
+}
+
+.laura{
+    width:50px; 
+}
+.related-3{
+    width:600px;
+}
+h2,h3{
+    color:rgb(71, 122, 233);
+}
+li:first-child{
+font-weight:bold;
+}
+aside{
+    background-color: aliceblue;
+    width:350px;
+    border-bottom:3px solid  #00f;
+    border-top:3px solid #00f;
+    padding: 0 20px 30px 20px;
+    align-self:start;
+}
+.aside_image{
+    width:80px;
+    height:80px;
+}
+aside p{
+    font-weight:bold;
+}
+aside h5{
+    font-size:18px;
+    color:rgb(71, 122, 233);
+}
+aside h4{
+    text-align:center;
+}
+footer{
+    text-align:center;
+}
+.btn{
+    position:absolute;
+    right:0;
+    bottom:0;
+
+}
+.article{
+    display:flex;
+    gap:20px;
+   
+    
+    
+}
+
